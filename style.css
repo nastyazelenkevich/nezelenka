@@ -3,4 +3,8 @@ body {
  font-size: 40px;
  line-height: 120%; 
 }
-
+img {
+    width: 100%;
+    height: auto;
+    display: block; 
+}
