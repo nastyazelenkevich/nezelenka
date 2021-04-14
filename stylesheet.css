@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Metal Reg-1';
+    src: url('Metal-Reg-1.woff2') format('woff2'),
+        url('Metal-Reg-1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica Monospaced W1G';
+    src: url('HelveticaMonospacedW1G-Rg.woff2') format('woff2'),
+        url('HelveticaMonospacedW1G-Rg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
