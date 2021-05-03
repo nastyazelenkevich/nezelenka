@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Monospace';
-    src: url('AnonymousPro.woff2') format('woff2'),
-        url('AnonymousPro.woff') format('woff');
+    font-family: 'Helvetica';
+    src: url('HelveticaNeueCyr-Medium.woff2') format('woff2'),
+        url('HelveticaNeueCyr-Medium.woff') format('woff');
         font-size: 30px;
 }
