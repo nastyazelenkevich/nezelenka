@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Anonymous Pro';
+    src: url('AnonymousPro.woff2') format('woff2'),
+        url('AnonymousPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
