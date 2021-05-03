@@ -1,8 +1,8 @@
 @font-face {
-    font-family: 'Anonymous Pro';
-    src: url('AnonymousPro.woff2') format('woff2'),
-        url('AnonymousPro.woff') format('woff');
-    font-weight: normal;
+    font-family: 'HelveticaNeueCyr';
+    src: url('HelveticaNeueCyr-Medium.woff2') format('woff2'),
+        url('HelveticaNeueCyr-Medium.woff') format('woff');
+    font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
