@@ -9,6 +9,10 @@ img {
     margin-left: 800px; 
 }
 
+div {
+    background-image: "777.png";
+}
+
 nav {
     position:fixed;
     top: 40;
